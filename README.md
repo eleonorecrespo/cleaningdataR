@@ -16,4 +16,4 @@ The first dataset is called TidyData
 
 2nd dataset:
 Creates an tidy data set with the average of each variable for each activity and each subject.
-The end result is shown in the file cleaning.txt.
+The end result is shown in the file tidy.txt.
