@@ -81,4 +81,4 @@ dataset_final<-summarise_each(TidyData,funs(mean))
 ## STEP 5 completed! dataset_final gives average by participant and activity
 
 # Write table into a txt file
-write.table(dataset_final,file="cleaning.txt",row.name=FALSE)
+write.table(dataset_final,file="tidy.txt",row.name=FALSE)
